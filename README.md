@@ -96,8 +96,8 @@ In `Olympics_Data_Analysis.ipynb`:
 
 #Author
 
-Project by: [Prateek KUdari] br
-Role: Data Analyst / Data Scientist br
+Project by: [Prateek KUdari] <br>
+Role: Data Analyst / Data Scientist <br>
 Tools Used: Python, Power BI
 
 
