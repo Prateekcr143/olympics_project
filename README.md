@@ -87,7 +87,6 @@ In `Olympics_Data_Analysis.ipynb`:
 | `Olympics_Data_Analysis.ipynb`    | Data Cleaning, EDA, Visualization (Python) |
 | `Olympics_Data_Analysis.pbix`     | Interactive Power BI Dashboard             |
 | `Olympics_Executive_Summary.docx` | Management Summary Report                  |
-| `README.md`                       | Documentation                              |
 | Dataset (`.csv`)                  | summer_olympic.csv                         |
 
 # Power BI
@@ -97,8 +96,8 @@ In `Olympics_Data_Analysis.ipynb`:
 
 #Author
 
-Project by: [Prateek KUdari]
-Role: Data Analyst / Data Scientist
+Project by: [Prateek KUdari] br
+Role: Data Analyst / Data Scientist br
 Tools Used: Python, Power BI
 
 
